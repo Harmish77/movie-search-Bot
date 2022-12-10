@@ -28,7 +28,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
    <summary><b>Deploy to Koyeb</b></summary>
 <br/>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Harmish77/movie-Pro&branch=main&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Harmish77/movie&branch=main&name=urlshortautofilterbot)
 </details>
 
 # Credits
