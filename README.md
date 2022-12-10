@@ -1,5 +1,13 @@
-# Message Search Bot
+<p align="center">
 
+  <img src="https://telegra.ph/file/5db2b24078934fafe958c.jpg" alt="Lazy Url Hunterr BOT  logo">
+
+</p>
+<h1 align="center">
+
+  <b> @Moviehubsearchbot </b>
+
+</h1>
 We have to use Bot for Inline Search & Userbot for Searching in Channels. So both Bot & Userbot will work together.
 
 
