@@ -22,6 +22,8 @@ class Config(object):
 
 I'ᴍ MOVIE SEARCH BOT 
 
+SEARCH MOVIE YOU WANT
+
 Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ.☺️
 
 Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
