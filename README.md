@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">
 
-  <b> @Moviehubsearchbot </b>
+  <b> https://t.me/Moviehubsearchbot </b>
 
 </h1>
 We have to use Bot for Inline Search & Userbot for Searching in Channels. So both Bot & Userbot will work together.
