@@ -24,6 +24,8 @@ I'ᴍ MOVIE SEARCH BOT
 
 SEARCH MOVIE YOU WANT
 
+Movie channel link : https://t.me/main_movie_hub
+
 Yᴏᴜ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ.☺️
 
 Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ Cʟɪᴄᴋ Oɴ Hᴇʟᴘ ✅''')
