@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+HUB+SEARCH+BOT+!;CREATED+BY+HK+BOTS!;A+ADVANCE+BOT+WITH+POSTER+INDEX!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+HUB+SEARCH+BOT+!;CREATED+BY+HK_BOTS!;A+ADVANCE+BOT+WITH+POSTER+INDEX!)
 <p align="center">
 
   <img src="https://telegra.ph/file/5db2b24078934fafe958c.jpg" alt="Lazy Url Hunterr BOT  logo">
