@@ -13,7 +13,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 
 ## Installation
-## [Tutorial Video](https://youtu.be/e0h_cpB6mSM)
+## [Tutorial Video](,)
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
